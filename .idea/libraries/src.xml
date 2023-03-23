@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="src">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/gson-2.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../gson-2.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jackson-databind-2.15.0-rc1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jackson-core-2.15.0-rc1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jackson-annotations-2.15.0-rc1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/gson-gson-parent-2.10.1/examples/android-proguard-example/src" />
+      <root url="file://$USER_HOME$/Downloads/gson-gson-parent-2.10.1/extras/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/gson-gson-parent-2.10.1/extras/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/gson-gson-parent-2.10.1/gson/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/gson-gson-parent-2.10.1/gson/src/main/java-templates" />
+      <root url="file://$USER_HOME$/Downloads/gson-gson-parent-2.10.1/gson/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/gson-gson-parent-2.10.1/metrics/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/gson-gson-parent-2.10.1/proto/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/gson-gson-parent-2.10.1/proto/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
